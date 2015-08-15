@@ -1,0 +1,16 @@
+{
+  "name": "form-elements",
+  "version": "0.1.0",
+  "description": "Return the list of form control elements.  Behaves identically to HTMLFormElement.elements(), except that it works cross-browser",
+  "main": "lib/index.js",
+  "repository": "ashaffer/form-elements",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "dependencies": {
+    "form-controls": "git://github.com/ashaffer/form-controls",
+    "to-array": "^0.1.4"
+  }
+}
